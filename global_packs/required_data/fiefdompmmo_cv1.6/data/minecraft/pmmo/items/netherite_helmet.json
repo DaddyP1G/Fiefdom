@@ -36,10 +36,10 @@
     "minecraft:netherite_ingot": {
         "salvageMax": 1,
         "baseChance": 0.1,
-        "maxChance": 1.0,
+        "maxChance": 0.8,
         "chancePerLevel": {"crafting": 0.05},
         "levelReq": {"smithing": 50},
-        "xpPerItem": {"smithing": 1500}
+        "xpPerItem": {"smithing": 150}
     }
 }
 }

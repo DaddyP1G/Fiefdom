@@ -39,7 +39,7 @@
         "maxChance": 1.0,
         "chancePerLevel": {"smithing": 0.02},
         "levelReq": {"smithing": 10},
-        "xpPerItem": {"smithing": 500}
+        "xpPerItem": {"smithing": 50}
     }
 }
 }

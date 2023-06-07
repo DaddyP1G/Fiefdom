@@ -63,7 +63,7 @@
         "maxChance": 1.0,
         "chancePerLevel": {"smithing": 0.01},
         "levelReq": {"smithing": 30},
-        "xpPerItem": {"ssmithing": 100}
+        "xpPerItem": {"smithing": 100}
     },
     "born_in_chaos_v1:bone_handle": {
         "salvageMax": 1,
@@ -71,7 +71,7 @@
         "maxChance": 1.0,
         "chancePerLevel": {"smithing": 0.01},
         "levelReq": {"smithing": 30},
-        "xpPerItem": {"ssmithing": 100}
+        "xpPerItem": {"smithing": 100}
     }
 }
 }

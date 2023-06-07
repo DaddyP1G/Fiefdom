@@ -75,9 +75,5 @@
         "levelReq": {"crafting": 10},
         "xpPerItem": {"crafting": 10}
     }
-},
-"vein_data":{
-    "chargeCap": 0,
-    "chargeRate": 0.0
 }
 }

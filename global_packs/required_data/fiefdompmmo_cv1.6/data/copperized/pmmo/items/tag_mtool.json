@@ -6,7 +6,7 @@
         "maxChance": 1.0,
         "chancePerLevel": {"smithing": 0.02},
         "levelReq": {"smithing": 8},
-        "xpPerItem": {"smithing": 200}
+        "xpPerItem": {"smithing": 20}
     }
 },
   "vein_data": {

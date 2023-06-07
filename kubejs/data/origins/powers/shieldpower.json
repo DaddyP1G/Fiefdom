@@ -10,8 +10,8 @@
 	{
 		"type": "origins:resource",
 		"min": 0,
-		"max": 100,
-		"start_value": 100,
+		"max": 30,
+		"start_value": 30,
 		"min_action": 
 		{
 			"type": "origins:play_sound",
@@ -68,8 +68,8 @@
 		{
 			"type": "origins:resource",
 			"resource": "*:*_the_bar",
-			"comparison": "!=",
-			"compare_to": 0
+			"comparison": "==",
+			"compare_to": 30
 		},
 		"modifier": 
 		{
@@ -87,7 +87,7 @@
 		{
 			"type": "origins:change_resource",
 			"resource": "*:*_the_bar",
-			"change": 2
+			"change": 1
 		},
 		"condition": 
 		{

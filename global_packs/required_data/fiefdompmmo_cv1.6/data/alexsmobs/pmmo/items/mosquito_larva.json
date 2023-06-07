@@ -55,19 +55,5 @@
 	"HELD":[],
 	"WORN":[]
 },
-"negative_effect":{},
-"salvage":{
-    "minecraft:item": {
-        "salvageMax": 1,
-        "baseChance": 0.0,
-        "maxChance": 1.0,
-        "chancePerLevel": {"skillname": 1},
-        "levelReq": {"skillname": 1},
-        "xpPerItem": {"skillname": 1}
-    }
-},
-"vein_data":{
-    "chargeCap": 0,
-    "chargeRate": 0.0
-}
+"negative_effect":{}
 }

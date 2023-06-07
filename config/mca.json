@@ -206,6 +206,6 @@
     "DWARFISM": true
   },
   "taxesMap": {
-    "dotcoinmod:copper_coin": 2.0
+    "dotcoinmod:copper": 2.0
   }
 }

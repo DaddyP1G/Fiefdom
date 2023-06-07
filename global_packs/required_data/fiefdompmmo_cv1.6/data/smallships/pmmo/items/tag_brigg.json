@@ -41,7 +41,7 @@
 },
 "negative_effect":{},
 "salvage":{
-    "smallships:sail_item": {
+    "smallships:sail": {
         "salvageMax": 2,
         "baseChance": 0.3,
         "maxChance": 0.9,

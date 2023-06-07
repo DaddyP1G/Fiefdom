@@ -84,9 +84,6 @@
     "ench": true,
     "spawner": true
   },
-  "unlitcampfire": {
-    "campfireinfo": true
-  },
   "waystones": {
     "waystone": true
   },

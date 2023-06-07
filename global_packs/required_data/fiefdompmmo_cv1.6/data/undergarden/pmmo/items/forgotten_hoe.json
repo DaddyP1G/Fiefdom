@@ -25,7 +25,7 @@
 },
 "negative_effect":{"minecraft:slowness": 1},
 "salvage":{
-    "undergarden:forgotton_ingot": {
+    "undergarden:forgotten_ingot": {
         "salvageMax": 1,
         "baseChance": 0.1,
         "maxChance": 0.65,

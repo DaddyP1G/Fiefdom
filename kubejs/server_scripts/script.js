@@ -74,7 +74,7 @@ ServerEvents.recipes(event => {
   ], {
 		B: 'minecraft:bamboo' })
 	
-
+//CHAINMAIL
 	event.remove({id: 'minecolonies:chainmailhelmet'})
 	event.remove({id: 'minecolonies:chainmailchestplate'})
 	event.remove({id: 'minecolonies:chainmailleggings'})
@@ -83,9 +83,34 @@ ServerEvents.recipes(event => {
 	event.shaped('minecraft:chainmail_boots', [
     '   ',
     'C C',
+    'I I'
+  ], {
+		C: 'magistuarmory:steel_chainmail', 
+		I: 'minecraft:iron_ingot'})
+	
+	event.shaped('minecraft:chainmail_leggings', [
+    'CCC',
+    'I I',
     'C C'
   ], {
-		C: 'magistuarmory:steel_chainmail' })
+		C: 'magistuarmory:steel_chainmail', 
+		I: 'minecraft:iron_ingot'})
+	
+	event.shaped('minecraft:chainmail_chestplate', [
+    'I I',
+    'CCC',
+    'CCC'
+  ], {
+		C: 'magistuarmory:steel_chainmail', 
+		I: 'minecraft:iron_ingot'})
+	
+	event.shaped('minecraft:chainmail_helmet', [
+    'CIC',
+    'C C',
+    '   '
+  ], {
+		C: 'magistuarmory:steel_chainmail', 
+		I: 'minecraft:iron_ingot'})
 	
 	event.remove({id: 'alexsmobs:blood_sprayer'})
 	event.remove({id: 'minecraft:shield'})

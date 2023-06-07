@@ -1,14 +1,4 @@
 {
-  "salvage": {
-    "modid:item": {
-      "salvageMax": 1,
-      "baseChance": 0.0,
-      "maxChance": 1.0,
-      "chancePerLevel": {},
-      "levelReq": {},
-      "xpPerItem": {}
-    }
-  },
   "xp_values": {
     "MELEE_TO_PLAYERS": {},
     "RANGED_TO_PLAYERS": {},

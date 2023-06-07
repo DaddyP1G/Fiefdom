@@ -63,7 +63,7 @@
         "maxChance": 1.0,
         "chancePerLevel": {"crafting": 0.05},
         "levelReq": {"crafting":0},
-        "xpPerItem": {"crafting": 100}
+        "xpPerItem": {"crafting": 10}
     }
 }
 }

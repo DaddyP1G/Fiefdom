@@ -3,20 +3,6 @@
     "WORN": [],
     "HELD": []
   },
-  "salvage": {
-    "modid:item": {
-      "salvageMax": 1,
-      "baseChance": 0.0,
-      "maxChance": 1.0,
-      "chancePerLevel": {},
-      "levelReq": {},
-      "xpPerItem": {}
-    }
-  },
-  "vein_data": {
-    "chargeCap": 0,
-    "chargeRate": 0.0
-  },
   "xp_values": {
     "MELEE_TO_ANIMALS": {},
     "DEAL_RANGED_DAMAGE": {},

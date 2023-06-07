@@ -74,8 +74,8 @@
 
 [functional]
 	fodder = true
-	hourglass = true
 	present = true
+	hourglass = true
 
 	[functional.rope]
 		enabled = true
