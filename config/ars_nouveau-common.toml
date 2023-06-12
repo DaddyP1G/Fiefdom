@@ -48,7 +48,7 @@
 #Items
 [item]
 	#Spawn Caster Tomes in Dungeon Loot?
-	spawnTomes = true
+	spawnTomes = false
 
 #Debug
 [debug]
