@@ -69,7 +69,7 @@
 	#Range: 1 ~ 1000
 	maxtreesize = 400
 	#Disables supply camp placing restrictions, intended for skyworlds and similar [Default: false]
-	nosupplyplacementrestrictions = true
+	nosupplyplacementrestrictions = false
 	#Raiders will spawn in the sky if this is enabled [Default: false]
 	skyraiders = false
 
