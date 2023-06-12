@@ -14,7 +14,7 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'minecraft:bread'})
 	event.remove({id: 'betteranimalsplus:furnace/fried_egg'})
 	event.remove({id: 'betteranimalsplus:campfire/fried_egg'})
-	event.remove({id: 'betteranimalsplus:smoking/fried_egg'})
+
 
 //FIEFDOM BOOK
 
