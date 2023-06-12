@@ -10,6 +10,15 @@ StartupEvents.registry('item', event => {
 	event.create('speyefull').displayName('Complete Steampunk Eye')
 	event.create('speye_empty').displayName('Incomplete Steampunk Eye')
 	event.create('upgrade_base', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
+	event.create('ut_1', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
+	event.create('ut_2', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
+	event.create('ut_c', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
+	event.create('ut_f', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
+	event.create('ut_i', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
+	event.create('ut_mr', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
+	event.create('ut_r', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
+	event.create('ut_sr', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
+	event.create('ut_v', 'create:sequenced_assembly').displayName('Incomplete Upgrade')
 })
 
 
