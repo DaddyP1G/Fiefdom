@@ -1,0 +1,23 @@
+{
+    "inputs": [
+        {
+            "item": "minecraft:glass_bottle",
+            "slot": 0
+        },
+        {
+            "item": "minecraft:glass_bottle",
+            "slot": 3
+        }
+    ],
+    "hephaestus_forge_item": "minecraft:glass_bottle",
+    "essences": {
+        "aureal": 0,
+        "experience": 0,
+        "blood": 5000,
+        "souls": 1
+    },
+    "result": {
+        "item": "graveyard:vial_of_blood",
+        "count": 3
+    }
+}
