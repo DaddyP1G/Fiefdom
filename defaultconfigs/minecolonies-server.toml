@@ -191,7 +191,7 @@
 	#Items consumed by citizens in the Library. 
 	configliststudyitems = ["minecraft:paper;400;100", "minecraft:book;600;10"]
 	#Items requested by Tavern visitors. 
-	configlistrecruitmentitems = ["dotcoinmod:gold_coin;3"]
+	configlistrecruitmentitems = ["dotcoinmod:iron_coin;3"]
 	#Forester harvest trunk size for dynamic trees: 1-8. [Default: 5, min: 1, max: 8]
 	#Range: 1 ~ 8
 	dynamictreeharvestsize = 5
