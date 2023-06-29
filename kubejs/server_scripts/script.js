@@ -15,7 +15,6 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'betteranimalsplus:furnace/fried_egg'})
 	event.remove({id: 'betteranimalsplus:campfire/fried_egg'})
 
-
 //FIEFDOM BOOK
 
 	event.smelting(Item.of('patchouli:guide_book',{"patchouli:book": "patchouli:fiefdom_guide"}), 'minecraft:dirt')
@@ -113,7 +112,6 @@ ServerEvents.recipes(event => {
 		I: 'minecraft:iron_ingot'})
 	
 	event.remove({id: 'alexsmobs:blood_sprayer'})
-	event.remove({id: 'minecraft:shield'})
 	event.remove({id: 'blue_skies:moonstone_shield'})
 	event.remove({id: 'stalwart_dungeons:tunsgten_shield_recipe'})
 	event.remove({id: 'stalwart_dungeons:chorundum_shield_recipe'})
