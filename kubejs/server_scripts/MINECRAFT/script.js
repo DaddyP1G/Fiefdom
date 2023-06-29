@@ -6,7 +6,6 @@ console.info('Hello, World! (You will see this line every time server resources 
 
 ServerEvents.recipes(event => {
 
-	event.remove({output: 'minecraft:shield'})
 	event.remove({id: 'cataclysm:bulwark_of_the_flame'})
 
 	event.shaped('cataclysm:bulwark_of_the_flame', [
@@ -21,7 +20,7 @@ ServerEvents.recipes(event => {
 
 	event.remove({output: 'forbidden_arcanus:obsidian_skull_shield'})
 
-	event.smithing('magistuarmory:netherite_kiteshield', 'forbidden_arcanus:obsidian_skull', 'forbidden_arcanus:obsidian_skull_shield')
+	event.smithing('forbidden_arcanus:obsidian_skull_shield','magistuarmory:netherite_kiteshield', 'forbidden_arcanus:obsidian_skull')
 
 	event.remove({id: 'ars_nouveau:enchanters_shield'})
 
