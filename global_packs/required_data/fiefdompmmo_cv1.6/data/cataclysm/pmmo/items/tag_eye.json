@@ -34,7 +34,8 @@
   },
   "negative_effect": {},
   "override": true,
-  "isTagFor": ["cataclysm:flame_eye",
+  "isTagFor": ["cataclysm:abyss_eye",
+"cataclysm:flame_eye",
 "cataclysm:mech_eye",
 "cataclysm:monstrous_eye",
 "cataclysm:void_eye"]

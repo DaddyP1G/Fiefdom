@@ -1,0 +1,33 @@
+{
+  "vein_data": {
+    "consumeAmount": 1
+  },
+  "xp_values": {
+    "BLOCK_BREAK": {},
+    "BREAK_SPEED": {},
+    "GROW": {},
+    "ACTIVATE_BLOCK": {},
+    "BLOCK_PLACE": {},
+    "HIT_BLOCK": {}
+  },
+  "nbt_xp_values": {
+    "BLOCK_BREAK": [],
+    "BREAK_SPEED": [],
+    "GROW": [],
+    "ACTIVATE_BLOCK": [],
+    "BLOCK_PLACE": [],
+    "HIT_BLOCK": []
+  },
+  "requirements": {
+    "BREAK": {},
+    "INTERACT": {},
+    "PLACE": {"total_level": 250}
+  },
+  "nbt_requirements": {
+    "BREAK": [],
+    "INTERACT": [],
+    "PLACE": []
+  },
+  "override": true,
+  "isTagFor": []
+}

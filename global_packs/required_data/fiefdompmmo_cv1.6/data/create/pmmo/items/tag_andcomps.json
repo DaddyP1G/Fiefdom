@@ -34,7 +34,10 @@
   },
   "negative_effect": {},
   "override": true,
-  "isTagFor": ["create:andesite_funnel",
+  "isTagFor": ["create:andesite_bars",
+"create:andesite_door",
+"create:andesite_scaffolding",
+"create:andesite_funnel",
 "create:andesite_ladder",
 "create:andesite_tunnel"]
 }

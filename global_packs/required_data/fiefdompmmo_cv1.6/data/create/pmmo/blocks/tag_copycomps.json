@@ -1,0 +1,24 @@
+{
+  "vein_data": {
+    "consumeAmount": 1
+  },
+  "xp_values": {
+    "GROW": {},
+    "HIT_BLOCK": {},
+    "BLOCK_BREAK": {},
+    "BREAK_SPEED": {},
+    "ACTIVATE_BLOCK": {},
+    "BLOCK_PLACE": {"building": 5}
+  },
+
+  "requirements": {
+    "INTERACT": {},
+    "BREAK": {},
+    "PLACE": {}
+  },
+  "override": true,
+  "isTagFor": ["create:copycat_bars",
+"create:copycat_base",
+"create:copycat_panel",
+"create:copycat_step"]
+}

@@ -8,6 +8,8 @@
 	"graveyard:nightmare_spawn_egg",
 	"graveyard:wraith_spawn_egg",
 	"graveyard:corrupted_pillager_spawn_egg",
+	"graveyard:lich_spawn_egg",
+	"graveyard:nameless_hanged_spawn_egg",
 	"graveyard:corrupted_vindicator_spawn_egg"
 ],
 "xp_values":{

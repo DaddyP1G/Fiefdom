@@ -45,10 +45,10 @@
   "override": true,
   "isTagFor": [
 "born_in_choas_v1:mr_pumpkin",
-"born_in_chaos_v1:mr_pumpkin_control",
-"born_in_chaos_v1:s_bonescaller_n",
+"born_in_chaos_v1:mr_pumpkin_controlled",
+"born_in_chaos_v1:supreme_bonescaller_not_despawn",
 "born_in_chaos_v1:supreme_bonescaller",
-"born_in_chaos_v1:supreme_bonescaller_s_2",
+"born_in_chaos_v1:supreme_bonescaller_stage_2",
 "dungeons_mobs:redstone_golem",
 "aquamirae:eel",
 "deeperdarker:shriek_worm",

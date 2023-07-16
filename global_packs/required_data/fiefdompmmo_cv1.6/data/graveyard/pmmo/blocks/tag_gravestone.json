@@ -8,6 +8,10 @@
 	"graveyard:cracked_blackstone_gravestone",
 	"graveyard:stone_bricks_gravestone",
 	"graveyard:mossy_stone_bricks_gravestone",
+	"graveyard:gilded_blackstone_gravestone",
+	"graveyard:quartz_bricks_gravestone",
+	"graveyard:red_sandstone_gravestone",
+	"graveyard:sandstone_gravestone",
 	"graveyard:bricks_gravestone"
 ],
 "xp_values":{

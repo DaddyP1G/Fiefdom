@@ -1,5 +1,6 @@
 {"override": true,
 "isTagFor":[
+	"graveyard:gilded_blackstone_gravestone",
 	"graveyard:gravestone",
 	"graveyard:cobblestone_gravestone",
 	"graveyard:mossy_cobblestone_gravestone",
@@ -8,6 +9,9 @@
 	"graveyard:cracked_blackstone_gravestone",
 	"graveyard:stone_bricks_gravestone",
 	"graveyard:mossy_stone_bricks_gravestone",
+	"graveyard:quartz_bricks_gravestone",
+	"graveyard:red_sandstone_gravestone",
+	"graveyard:sandstone_gravestone",
 	"graveyard:bricks_gravestone"
 ],
 "xp_values":{

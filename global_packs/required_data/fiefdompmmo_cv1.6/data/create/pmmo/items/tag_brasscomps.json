@@ -34,7 +34,10 @@
   },
   "negative_effect": {},
   "override": true,
-  "isTagFor": ["create:brass_funnel",
+  "isTagFor": ["create:brass_bars",
+"create:brass_door",
+"create:brass_scaffolding",
+"create:brass_funnel",
 "create:brass_ladder",
 "create:brass_tunnel"]
 }

@@ -1,6 +1,7 @@
 {"override":true,
 "isTagFor":[
 	"mca:book_blueprint",
+	"mca:civil_registry",
 	"mca:book_cult_0",
 	"mca:book_cult_1",
 	"mca:book_cult_2",
@@ -13,6 +14,7 @@
 	"mca:book_supporters",
 	"mca:family_tree",
 	"mca:village_editor",
+	"mca:villager_tracker",
 	"mca:letter"
 ],
 "xp_values":{

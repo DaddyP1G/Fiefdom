@@ -22,6 +22,10 @@
 "platforms:frame",
 "platforms:ramp",
 "platforms:rise",
-"platforms:rail"
+"platforms:rail",
+"platforms:shingles",
+"platforms:stairs",
+"platforms:steps",
+"platforms:tiles"
 ]
 }

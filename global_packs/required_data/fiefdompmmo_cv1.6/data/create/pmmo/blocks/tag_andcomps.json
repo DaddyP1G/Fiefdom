@@ -17,6 +17,8 @@
   },
   "override": true,
   "isTagFor": ["create:andesite_belt_funnel",
+"create:andesite_bars",
+"create:andesite_scaffolding",
 "create:andesite_funnel",
 "create:andesite_ladder",
 "create:andesite_tunnel"]

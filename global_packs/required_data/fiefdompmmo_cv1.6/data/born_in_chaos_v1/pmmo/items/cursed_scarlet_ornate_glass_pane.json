@@ -1,0 +1,67 @@
+{
+  "xp_values": {
+    "ANVIL_REPAIR": {},
+    "DEAL_MELEE_DAMAGE": {},
+    "MELEE_TO_PLAYERS": {},
+    "MELEE_TO_MOBS": {},
+    "DEAL_RANGED_DAMAGE": {},
+    "RANGED_TO_PLAYERS": {},
+    "RANGED_TO_ANIMALS": {},
+    "ENCHANT": {},
+    "RANGED_TO_MOBS": {},
+    "BLOCK_PLACE": {},
+    "MELEE_TO_ANIMALS": {},
+    "BREW": {},
+    "FISH": {},
+    "SMELT": {},
+    "CONSUME": {},
+    "CRAFT": {"crafting": 25},
+    "ACTIVATE_ITEM": {}
+  },
+  "nbt_xp_values": {
+    "ANVIL_REPAIR": [],
+    "DEAL_MELEE_DAMAGE": [],
+    "MELEE_TO_PLAYERS": [],
+    "MELEE_TO_MOBS": [],
+    "DEAL_RANGED_DAMAGE": [],
+    "RANGED_TO_PLAYERS": [],
+    "RANGED_TO_ANIMALS": [],
+    "ENCHANT": [],
+    "RANGED_TO_MOBS": [],
+    "BLOCK_PLACE": [],
+    "MELEE_TO_ANIMALS": [],
+    "BREW": [],
+    "FISH": [],
+    "SMELT": [],
+    "CONSUME": [],
+    "CRAFT": [],
+    "ACTIVATE_ITEM": []
+  },
+  "bonuses": {
+    "HELD": {},
+    "WORN": {}
+  },
+  "requirements": {
+    "TOOL": {},
+    "BREAK": {},
+    "INTERACT": {},
+    "WEAPON": {},
+    "PLACE": {},
+    "USE_ENCHANTMENT": {},
+    "WEAR": {},
+    "USE": {}
+  },
+  "nbt_requirements": {
+    "TOOL": [],
+    "BREAK": [],
+    "INTERACT": [],
+    "WEAPON": [],
+    "PLACE": [],
+    "USE_ENCHANTMENT": [],
+    "WEAR": [],
+    "USE": []
+  },
+  "negative_effect": {},
+  "override": true,
+  "isTagFor": []
+}

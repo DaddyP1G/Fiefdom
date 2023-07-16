@@ -16,7 +16,9 @@
     "PLACE": {}
   },
   "override": true,
-  "isTagFor": ["create:copper_ladder",
+  "isTagFor": ["create:copper_bars",
+"create:copper_scaffolding",
+"create:copper_ladder",
 "create:copper_shingles",
 "create:copper_shingle_slab",
 "create:copper_shingle_stairs",
